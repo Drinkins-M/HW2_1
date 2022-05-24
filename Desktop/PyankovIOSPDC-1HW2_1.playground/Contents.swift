@@ -43,7 +43,7 @@ print ("После всех замен population = \(population)")
 print("После всех замен population2 = \(population2)")
 
 // Задача 3
-var salary1: Int = 55_000
+var salary1: Int = 50_000
 var salary2: Int = 40_000
 var salary3: Int = 70_000
 salary1 *= 2
